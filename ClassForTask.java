@@ -24,7 +24,7 @@ public class ClassForTask {
                 count = count + 1;
                 
                 Average = sum / (double) count;
-                System.out.println("\ni = " + i + "\nSum: " + sum + "\n Sum Of Square: " + SquareofSum + "\n Average is: " + Average);
+                System.out.println("\ni = " + i + " \nSum: " + sum + " \n Sum Of Square: " + SquareofSum + "\n Average is: " + Average);
             } 
         }                                                      
 
